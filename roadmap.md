@@ -1,6 +1,6 @@
 # ReligioSorter Plan:
 ## General
- ☐ Design a tree for religiosorter     <----- You're here
+ ☐ Design a tree for religiosorter  <----- You're here
 ## JSON
  ☐ Replace UI text
  
